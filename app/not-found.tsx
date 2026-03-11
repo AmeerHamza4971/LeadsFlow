@@ -21,7 +21,7 @@ export default function NotFound() {
               Job Not Found
             </h2>
             <p style={{ color: '#6b7280', marginBottom: '2rem' }}>
-              The job posting you're looking for doesn't exist or has been removed.
+              The job posting you&apos;re looking for doesn&apos;t exist or has been removed.
             </p>
             <Link href="/" className="btn btn-primary">
               Back to Job Listings
